@@ -1,3 +1,5 @@
+
+
 Tracker
 Overview
 Tracker is a real-time location-sharing application that allows users to see the live locations of their friends who have the app open. This can be useful for coordinating meetups, ensuring safety, or just keeping track of where everyone is. The application provides an intuitive and user-friendly interface for seamless location sharing.

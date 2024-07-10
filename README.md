@@ -19,7 +19,8 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tracker.git
+git clone https://github.com/sarthaksharma52
+/tracker.git
 cd tracker
 Install Dependencies:
 Make sure you have Node.js installed, then run:
